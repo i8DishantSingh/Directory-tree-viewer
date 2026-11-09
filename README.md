@@ -1,5 +1,8 @@
 # Directory Tree Viewer
 
+### Directory Tree viewer in C, This program prints all the directories, sub-directories and files inside them. 
+
+
 ## Design
 
 - get path
